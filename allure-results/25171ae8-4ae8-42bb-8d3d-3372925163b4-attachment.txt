@@ -1,0 +1,2 @@
+[33mWARNING [0m selenium.webdriver.common.driver_finder:driver_finder.py:42 Unable to obtain driver using Selenium Manager: Selenium Manager failed for: C:\Users\user\PycharmProjects\run-tests-demo-main\.venv\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json.
+The chromedriver version cannot be discovered
